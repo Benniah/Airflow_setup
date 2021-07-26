@@ -13,6 +13,8 @@ brew install Docker
 ```
 
 # File structure
+
+```bash
 .
 ├── LICENSE
 ├── README.md
@@ -22,3 +24,5 @@ brew install Docker
     ├── docs
     │   └── cli_commands.txt
     └── entrypoint.sh
+
+```
